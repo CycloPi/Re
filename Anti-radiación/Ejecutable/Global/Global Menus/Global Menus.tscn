@@ -4,7 +4,7 @@
 [ext_resource path="res://Ejecutable/Menus/Sonidos/Musica.ogg" type="AudioStream" id=2]
 [ext_resource path="res://Ejecutable/Menus/Sonidos/boton.wav" type="AudioStream" id=3]
 
-[node name="Global Menus" type="Node" index="0"]
+[node name="Global Menus" type="Node"]
 
 script = ExtResource( 1 )
 
